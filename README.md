@@ -1,2 +1,2 @@
 # EstudandoJS
-Exercícios para aprendizagem de JavaScript.
+Este repositório foi criado para registrar exercícios praticados por mim durante minha jornada de aprendizagem da linguagem JavaScript.
