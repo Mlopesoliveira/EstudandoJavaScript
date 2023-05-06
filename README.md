@@ -1,2 +1,2 @@
 # EstudandoJS
-Este repositório foi criado para registrar exercícios praticados por mim durante minha jornada de aprendizagem da linguagem JavaScript.
+Este repositório foi criado para submeter programas feito por mim durante minha jornada de aprendizagem da linguagem JavaScript.
